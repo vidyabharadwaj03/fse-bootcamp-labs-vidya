@@ -1,0 +1,11 @@
+.bedroom {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #2f6f8f;
+  color: #ffffff;
+  font-size: 2rem;
+  font-family: Helvetica, sans-serif;
+}

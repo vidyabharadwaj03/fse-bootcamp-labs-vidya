@@ -1,0 +1,21 @@
+.kitchen {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  background: #eea23c;
+}
+
+.appliances {
+  display: flex;
+}
+
+.label {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #ffffff;
+  font-size: 2rem;
+  font-family: Helvetica, sans-serif;
+}

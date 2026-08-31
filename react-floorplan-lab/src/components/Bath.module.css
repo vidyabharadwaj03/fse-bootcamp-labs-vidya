@@ -1,0 +1,11 @@
+.bath {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #6b8e3a;
+  color: #ffffff;
+  font-size: 2rem;
+  font-family: Helvetica, sans-serif;
+}

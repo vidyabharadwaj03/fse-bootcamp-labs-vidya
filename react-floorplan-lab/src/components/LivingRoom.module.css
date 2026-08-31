@@ -1,0 +1,11 @@
+.livingRoom {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #c8a97e;
+  color: #ffffff;
+  font-size: 2rem;
+  font-family: Helvetica, sans-serif;
+}

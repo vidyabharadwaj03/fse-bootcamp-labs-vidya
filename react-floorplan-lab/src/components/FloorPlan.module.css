@@ -1,0 +1,41 @@
+.floorplan {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr;
+  grid-template-areas:
+    "bed1 living kitchen"
+    "bed2 living kitchen"
+    "fullbath1 halfbath fullbath2";
+  height: 100vh;
+  width: 100%;
+  gap: 3px;
+  background: #1a1a1a;
+}
+
+.bed1 {
+  grid-area: bed1;
+}
+
+.bed2 {
+  grid-area: bed2;
+}
+
+.living {
+  grid-area: living;
+}
+
+.kitchenArea {
+  grid-area: kitchen;
+}
+
+.fullbath1 {
+  grid-area: fullbath1;
+}
+
+.halfbath {
+  grid-area: halfbath;
+}
+
+.fullbath2 {
+  grid-area: fullbath2;
+}

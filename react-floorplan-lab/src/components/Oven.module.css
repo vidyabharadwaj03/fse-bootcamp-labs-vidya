@@ -1,0 +1,11 @@
+.oven {
+  flex: 1;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #c0392b;
+  color: #ffffff;
+  font-size: 1.5rem;
+  font-family: Helvetica, sans-serif;
+}
